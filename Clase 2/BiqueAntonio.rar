@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte Histórico</title>
+<style>
+    body{ 
+        width: 70%;
+        min-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+         }
+     img{
+        display: block;
+        width: 50%;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius: 20px;
+        padding: 15px;
+        border: solid 5px gray;
+    }
+    h1{
+        text-align:center;
+        background-color: cornsilk;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    }
+    h2{ 
+        border-top:lawngreen solid 4px;
+        margin-top: 25px;
+        background-color:rgba(136, 168, 189, 0.473);
+        padding: 10px;
+        font-family:cursive;
+        text-align:center;
+     }
+    p{ 
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        text-align:center;
+    }
+    ul{ font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+    ol{ font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+    table,td{ background-color: rgb(206, 209, 208);
+           font-family:Verdana, Geneva, Tahoma, sans-serif;
+           margin:center;
+           border:5px solid rgb(131, 226, 170);
+           border-collapse:collapse;
+           padding:15px;
+           text-align:center;
+           border-spacing:5px;
+    }
+</style>
+    
+</head>
+<body>
+    <h1>Historia del Arte</h1>
+    <h2>Arte Paleocristinano</h2>
+    <img src="https://3.bp.blogspot.com/-jAf9QGoWChc/TfStlenbBNI/AAAAAAAACJ4/0aPjJ9k7fQo/s1600/curaci%25C3%25B3n+hemorroisa.jpg" alt="Imagen de Arte Paleocristiano">
+    <p>El arte paleocristiano es un estilo de 
+       arte que surge durante los primeros cinco siglos de nuestra era. 
+       Va desde que apareció el cristianismo,
+       durante la conquista romana, hasta la invasión de los bárbaros,
+       sin embargo en oriente continuo desarrollando 
+       este arte hasta llegar al <a href="https://www.arteguias.com/bizantino.htm">arte bizantino.</a></p>
+    <p>El arte paleocristiano es el centro la unión de dos grandes 
+       periodos de la cultura y del arte, estas son <a href="http://ccat.sas.upenn.edu/romance/spanish/219/04edadmedia/resumen.html">Edad Media Cristiana</a> y <a href="https://historia.nationalgeographic.com.es/a/legado-antiguedad-clasica_7041">Antigüedad Clásica.</a>
+       Es por ello por lo que en el arte paleocristiana se 
+       distinguen dos grandes periodos:</p>
+       <ul>
+           <li>La primera alcanza desde el siglo II al 313,
+            fecha del Edicto de Milán, etapa de clandestinidad y persecución, 
+           en el que se otorga libertad al cristianismo.</li>
+           <li>La segunda que abarca desde el 313 hasta el siglo VII. 
+            En este tipo la religión del Cristianismo fue la religión oficial en el siglo IV. 
+            En este periodo el arte se protegerá y se impulsara por las jerarquías eclesiásticas, 
+            el cristiano toma la calle y sus monumentos pueblan todo el espacio.</li>
+       </ul>
+      <h2>Características del arte paleocristiano:</h2> 
+      <ol>
+          <li>Tiene una variedad de colores un poco limitada. </li>
+          <li>Se conforma con representar a un número pequeño de figuras y con diferentes objetos. </li>
+          <li>Es una pintura que sugieren en vez de figurar.</li>
+          <li>Todas las figuras están dirigidas al espectador, colocadas de frente.</li>
+          <li>Utilizan catacumbas que son derivadas de los panteones públicos.</li>
+          <li>Em las obras,la esencia divina les era imposible de representarlas,
+            aunque a partir del siglo IV se pueden ver algunas.</li>
+        </ol>
+      <h2>Tabla de los signos paleocristianos</h2>
+        <table style="width:100%;">
+            <tr>
+                <td>Signo 1</td>
+                <td>Signo 2</td>
+                <td>Signo 3</td>
+                <td>Signo 4</td>
+                <td>Signo 5</td>
+                <td>Singo 6</td>
+            </tr>
+            <tr>
+               <td>La serpiente</td> 
+               <td>XP</td>
+               <td>El pastor</td>
+               <td>La paloma</td>
+               <td>El viñedo y las uvas</td>
+               <td>El pavo</td>
+            </tr>
+        </table>
+        <h2>Significado de los signos paleocristianos:</h2>
+        <h2>El pastor</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Good_shepherd_01_small.jpg/220px-Good_shepherd_01_small.jpg" alt="Imagen del pastor">
+        <p>El signo del pastor simboliza a Cristo que cuida a sus fieles como un pastor hace con sus ovejas.</p>
+        <h2>XP</h2>
+        <img src="https://i.pinimg.com/originals/24/a2/36/24a2364be150dafee5cc804de86815f5.jpg"alt="Imagen del XP">
+        <p>El monograma de Jesús está compuesto por las iniciales del nombre griego de Cristo, las letras X y P incrustadas juntas. A menudo al monograma se unen Alfa y Omega, es decir, la primera y la última letra del alfabeto griego. Indican que Cristo es el principio y el fin.</p>
+        <h2>La paloma</h2>
+        <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=360x10000:format=jpg/path/s3a945487ffb8cb04/image/ie1cd8d839f987644/version/1288870930/image.jpg" alt="Imagen de la paloma">
+        <p>Es citada en el Evangelio de Mateo y simboliza al Espíritu Santo, el alma y la paz</p>
+        <h2>La serpiente</h2>
+        <img src="https://i.pinimg.com/236x/12/1c/b4/121cb499fdddfbf595c16aef3332f97f--voyage-rome-ancient-rome.jpg" alt="Imagen de la serpiente">
+        <p>La serpiente simboliza la encarnación del mal, la cual, tentó a Adán y Eva, es el responsable del pacado original.</p>
+        <h2>El pavo </h2>
+        <img src="https://3.bp.blogspot.com/-U8yodSPZwyQ/UplCoTcbZ1I/AAAAAAAABj8/6yLQo_5B6Gs/s1600/23tqngn.jpg" alt="imagen del pavo">
+        <p>El pavo pierde sus plumas en otoño y las vuelve a tner en primabvera simbolizando el renacimiento espiritual. Los "ojos" de las plumas de la cola simbolizan la omnisciencia de Dios que ve todo. </p>
+        <h2>El viñedo y las uvas</h2>
+        <img src="https://i.pinimg.com/236x/eb/80/71/eb8071840108ee7e187621088e9276cb--la-paloma-roman-mosaics.jpg" alt="imagen de las uvas">
+        <p>El viñedo es simbolo de Cristo y de la fe. Las ramas simbolizan la iglesia mientras que las uvas y el vino remiten a la pasión de Cristo y el episodio de la última cena</p>
+        <h3>Fin del documento</h3>
+        <a href="https://arteespana.com/arquitecturapaleocristiana.htm">Más información del tema</a>
+</body>
+</html>
+ 

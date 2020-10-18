@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Grid</title>
+    <style>
+        body{
+            *body "será el contenedor de la rejilla"
+            display:grid;
+            grid-template-columns: 33% 67%;
+            grid-template-rows: auto;
+            grid-template-areas:"imagen1 imagen1"
+            "nav nav"
+            "texto1 imagen2"
+            "texto1 tabla"
+            "texto2 texto2"
+
+    }
+
+        #imagen1{
+            grid-area: imagen1; "hacer lo mismo con texto2 imagen2 y tabla"
+        }
+    </style>
+</head>
+<body>
+    <img src="solar.jpg"alt="sistema solar"> se puede poner foto dentro del computador.
+  <div id="texto1">
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, unde iste tempore blanditiis debitis incidunt vel qui nesciunt voluptas? Ipsam ex nostrum nesciunt eos inventore harum. Esse itaque tenetur porro. </P>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellat consectetur velit quas aliquid pariatur esse vitae aliquam perspiciatis non quae dolorum repudiandae aut, ipsam maiores voluptate dignissimos eum nam!</p>
+  </div>
+    <img src="link" alt="mensaje para la imagen">
+    <table>
+        <tr> <td></td>
+            <td></td>
+
+        </tr>
+    </table>
+
+</body>
+</html>
