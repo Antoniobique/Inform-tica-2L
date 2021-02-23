@@ -43,4 +43,25 @@ function addPlanet(){
 }
 
 form.onsubmit= addPlanet
+
+// para borra un planeta
+let formBorrar= document.querySelector("#formularioDelete")
+function deletePlanet(){
+    let nombrePlanetaABorrar= document.querySelector("#formularioDelete input[name=nombre]").value
+    console.log=("Ahora voy a borrar un planeta");
+    console.log(nombrePlanetaABorrar)
+
+    // determinar la posición del elemento a borrar en el array
+    let aBorrar= planetas.findIndex(planeta => planeta.nombre == nombrePlanetaABorrar)
+    // si el elemento no existe  ostrarle un mensaje al ususario
+    if(aBorrar==-1) alert("Planeta no encontrado")
+    //borrar el elemneto en el array
+    // en la posición aBorrar deseo borrar un elemento
+    planetas.splice(aBorrar,1)
+    //generar de nuevo la tabla
+    llenarTabla();
+    // hace que no se actualice la página
+    return false;
+}
+formBorrar.onsubmit= deletePlanet;
 llenarTabla()
