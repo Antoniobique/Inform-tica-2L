@@ -1,4 +1,4 @@
-let contador=0
+let contador=1
 if(contador==null){
     contador==contador
     localStorage.setItem("contador", JSON.stringify(contador))
