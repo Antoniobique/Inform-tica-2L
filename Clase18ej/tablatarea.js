@@ -1,5 +1,5 @@
-let planetas = JSON.parse(localStorage.getItem("planetas"));
-if (planetas == null) planetas = [];
+let tareas = JSON.parse(localStorage.getItem("tareas"));
+if (tareas == null) tareas = [];
 
 let tabla = document.querySelector('#work')
 function llenarTabla(){
@@ -58,7 +58,3 @@ let nombretareaABorrar = document.querySelector("#formularioDelete input[name=ma
     return false;
 }
 formBorrar.onsubmit = deleteTarea;
-
-
-
-
