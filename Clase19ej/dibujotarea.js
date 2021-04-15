@@ -40,7 +40,7 @@ ctx.fillStyle="black";
 ctx.fill();
 
 ctx.beginPath()
-ctx.moveTo(531, 198)// muevo el cursor a esa posicion
+ctx.moveTo(20, 20)// muevo el cursor a esa posicion
 ctx.strokeStyle="black"
 ctx.fillStyle="pink"
 ctx.arc(531, 215.3, 17.9, -Math.PI/2, Math.PI/2)
