@@ -16,7 +16,7 @@ function dibujarPelota(xC, yC, r, color){
 let x = 300;
 let y = 0;
 let r = 20; //px
-let color="red"
+
 
 
 let vy = 10;// en px/s
